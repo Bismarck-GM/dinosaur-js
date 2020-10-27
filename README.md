@@ -13,6 +13,8 @@
 - webpack
 - moment.js
 
+## Dev
+
 👤 **Gerónimo Morisot**
 
 - Github: [@Bismarck-GM](https://github.com/Bismarck-GM)
